@@ -47,7 +47,7 @@ export function AuthProvider({ children }) {
                 const { getToken } = await import('firebase/messaging');
                 const { messaging } = await import('../firebase');
                 const token = await getToken(messaging, { 
-                  vapidKey: 'fc_nG6lF1fhSJxtLHXmz3A5KhAz4vaVnVjK65YVoxLU' 
+                  vapidKey: 'BHphOcUT7MjnmSH35o2rBUlgS5bAWnSmfv5UmxI1uGafYwdfIiV4TQgxE7IFx9qngiG63DzWyrTGNibxYB3aa2U' 
                 });
                 if (token) {
                   await updateDoc(docRef, { fcmToken: token });

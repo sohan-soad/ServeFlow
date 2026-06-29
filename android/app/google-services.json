@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "162160839990",
+    "project_id": "dev-experimental-b2d68",
+    "storage_bucket": "dev-experimental-b2d68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:8d181d8b436e5972b8f797",
+        "android_client_info": {
+          "package_name": "com.eos.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:d7492634a845a9beb8f797",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:2acd283d27df3a61b8f797",
+        "android_client_info": {
+          "package_name": "com.example.starter_architecture_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:882eb63998d21bf4b8f797",
+        "android_client_info": {
+          "package_name": "com.hypertrack.quickstartflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:b6ebbce1b46aaad2b8f797",
+        "android_client_info": {
+          "package_name": "com.hypertrack.sdk.flutter.quickstart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:ec3acf7cb313c19bb8f797",
+        "android_client_info": {
+          "package_name": "com.office.serve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:5d2da25330bbc0acb8f797",
+        "android_client_info": {
+          "package_name": "com.sunadriann.awesome_period_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162160839990:android:d83bf76e2ccabba6b8f797",
+        "android_client_info": {
+          "package_name": "com.vsp.flutter_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyJabGOgTCOZdu2SNXvnjIDW0eJsoCdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

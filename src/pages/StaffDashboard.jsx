@@ -53,8 +53,8 @@ export default function StaffDashboard() {
       });
       setCustomRequest('');
 
-      // Ping standalone backend to send FCM Push Notification
-      const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3000';
+      // Ping backend to send FCM Push Notification
+      const backendUrl = import.meta.env.VITE_BACKEND_URL || '';
       fetch(`${backendUrl}/api/notify`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
